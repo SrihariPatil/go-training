@@ -8,6 +8,6 @@ import (
 
 func main() {
 	fmt.Println("hello world")
-	fmt.Println(stringutil.Reverse("!oG ,olleH"))
+	fmt.Println(stringutil.Reverse("!oG ,sir"))
 	fmt.Println(stringutil.MyName)
 }
